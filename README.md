@@ -51,7 +51,8 @@ The Quantum Cryptography Simulator is a C program that emulates the Quantum Key 
 - **`intercept(char *enc_str)`**: Simulates interception by Eve, including decryption and re-encryption of the message.
 
 
-##Example
+## Example
+
 Enter the length of the message: 5
 
 Alice's randomly generated bits: 10101
